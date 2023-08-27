@@ -1,0 +1,1 @@
+This is an easy app start with building something, build on GIT skills, and gain some experience with Python 3.
